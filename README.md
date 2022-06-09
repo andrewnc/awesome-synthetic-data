@@ -64,6 +64,9 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 ### Images
 * [Contrastive Unpaired Translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan.
 * [StyleGAN 3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 from NeurIPS 2021.
+* [Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion) - Blog post with code and explanation into diffusion models for image synthesis
+* [Denoising Diffusion Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Open source implementation of DDPM
+* [Video Diffusion Pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Open source implementation of DDPM for video generation
 
 ### Audio
 * [Jukebox](https://github.com/openai/jukebox/) - OpenAI's Jukebox- A Generative Model for Music.
@@ -79,13 +82,18 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 [Back to Top](#contents)
 
 ### Language Models
+* **Evaluating Large Language Models Trained on Code** (2021) Mark Chen et al. [[pdf]](https://arxiv.org/pdf/2107.03374.pdf)
 
 ### Generative Adversarial Networks (GANs)
+* **Generating Long Videos of Dynamic Scenes** (2022) Tim Brooks et al. [[pdf]](https://arxiv.org/pdf/2206.03429.pdf)
 
 ### Diffusion Models
 * **Generative Modeling by Estimating Gradients of the Data Distribution** (2021) Yang Song [[pdf]](https://yang-song.github.io/blog/2021/score/)
 * **Diffusion Models are Autoencoders** S. Dielman (2021) [[pdf]](https://benanne.github.io/2022/01/31/diffusion.html)
 * **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** (2015) J Sohl-Dickstein et al. [[pdf]](https://arxiv.org/pdf/1503.03585.pdf)
+
+### Retrieval Methods
+* **KNN-Diffusion: Image Generation via Large-Scale Retrieval** (2022) Oron Ashual et al. [[pdf]](https://arxiv.org/pdf/2204.02849.pdf)
 
 ### Fair AI
 
